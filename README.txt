@@ -10,9 +10,9 @@ Folder Structure
 Code/
 ├── Data Generation/
 │   ├── Baseline/           # baseline experiment
-│   ├── 3 Firms/            # three-firm variant
-│   ├── Asymmetric Costs/   # asymmetric-cost variant
-│   ├── Discrete Actions/   # discrete-action variant
+│   ├── Three-Firms/        # three-firm variant
+│   ├── Asymmetric-Costs/   # asymmetric-cost variant
+│   ├── Discrete-Actions/   # discrete-action variant
 │   └── Robustness/         # robustness checks
 │
 └── Graphs in Paper/
